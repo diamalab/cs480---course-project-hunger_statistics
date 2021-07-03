@@ -1,6 +1,18 @@
 # hunger_statistics
 cs480---course-project-hunger_statistics created by GitHub Classroom
 
+## Table of Contents
+1. [Database](#database)
+1. [Author(s)](#author)
+1. [Database description](#description)
+ 
+# Database
+hunger_statistics
+# Author(s)
+Chintal Patel
+Gurleen Kaur
+Abhi Patel
+# Database description
 We are creating a database system that helps manage data of world hunger. So basically creating a system where it keeps track of people 
 that are suffering from starvation in-country and then allocating resources according to that i.e more the number more resources go their way.
 

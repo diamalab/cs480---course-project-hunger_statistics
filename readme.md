@@ -22,4 +22,3 @@ to allocate more resources to the countries that need it more based on the amoun
 able to help every country in the amounts they require the resources. This will prevent waste of resources too.
 
 Multiple strong entities in the database such as country names and Providing country names.
-hello delete me

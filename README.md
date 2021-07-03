@@ -1,4 +1,4 @@
-# cs480---course-project-hunger_statistics
+# hunger_statistics
 cs480---course-project-hunger_statistics created by GitHub Classroom
 
 We are creating a database system that helps manage data of world hunger. So basically creating a system where it keeps track of people 

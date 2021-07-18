@@ -1,5 +1,5 @@
 # hunger_statistics
-cs480---course-project-hunger_statistics created by GitHub Classroom
+CS480---Course-Project-hunger_statistics created by GitHub Classroom
 
 ## Table of Contents
 1. [Database](#database)

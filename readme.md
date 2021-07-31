@@ -13,7 +13,7 @@ Chintal Patel,
 Gurleen Kaur,
 Abhi Patel
 # Database description
-We are creating a database system that helps manage data of world hunger. So basically creating a system where it keeps track of people 
+We are creating a database system that helps manage data of world hunger using SQL and Java. So basically creating a system where it keeps track of people 
 that are suffering from starvation in-country and then allocating resources according to that i.e more the number more resources go their way.
 
 We will have multiple tables where we store information such as Population that is starving, countries GDP, Total population, etc. Then we can 
